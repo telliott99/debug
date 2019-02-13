@@ -8,7 +8,7 @@ But I was working on a project.
 
 I started by trying to understand the basics of floating point representation
 
-- [floating point](files/floating point.md)
+- [floating point](files/floating-point.md)
 
 and then to test it, came up with the idea of directly examining memory in the debugger.  
 
@@ -20,7 +20,7 @@ That led me to lldb ([cheatsheet](quick ref.md)).
 
 - [Basic lldb commands, floating point](files/1.md)
 - [simple watchpoint](files/wp.md)
-- [custom commands](files/custom commands.md)
+- [custom commands](files/custom-commands.md)
 
 Norm Matloff has a book about gdb.
 
